@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Test1",
+    "owner": "Arnold",
+    "description": "Working dir"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "ArnoldReview"
+  }
+}
