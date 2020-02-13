@@ -133,12 +133,12 @@
         }
       },
       {
-        "title": "asd",
+        "title": "dsa",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
+        "id": 2
       },
       {
-        "title": "dsa",
+        "title": "asd",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 2
       }
