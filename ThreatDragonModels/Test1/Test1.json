@@ -5,7 +5,17 @@
     "description": "Working dir"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "asd"
+      },
+      {
+        "name": "ddd"
+      },
+      {
+        "name": "ccc"
+      }
+    ],
     "diagrams": [
       {
         "title": "Test1",
