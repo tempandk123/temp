@@ -184,7 +184,41 @@
       {
         "title": "dsa",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 2
+        "id": 2,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 48,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "15b0e3ef-3d47-4f0b-9d52-6f471dbd949e",
+              "z": 1,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "actor 0"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ],
     "reviewer": "ArnoldReview"
