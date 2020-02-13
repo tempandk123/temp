@@ -136,26 +136,6 @@
         "title": "asd",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 1
-      },
-      {
-        "title": "aaa",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 3
-      },
-      {
-        "title": "Copy of aaa",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 4
-      },
-      {
-        "title": "asd",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 4
-      },
-      {
-        "title": "dd",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 5
       }
     ],
     "reviewer": "ArnoldReview"
