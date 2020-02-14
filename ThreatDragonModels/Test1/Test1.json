@@ -283,8 +283,8 @@
                 "height": 100
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 212,
+                "y": 34
               },
               "angle": 0,
               "id": "1dfbefdd-0493-47f8-ac29-fabb473f771f",
@@ -395,6 +395,53 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Store",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 494,
+                "y": 40
+              },
+              "angle": 0,
+              "id": "d959cdc0-dce6-4d6a-aa48-78c0dddfbcb6",
+              "z": 6,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "store 5"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 20
+              },
+              "target": {
+                "x": 83,
+                "y": 345
+              },
+              "vertices": [
+                {
+                  "x": 11,
+                  "y": 149
+                }
+              ],
+              "id": "2d712ef2-cf92-4266-9b78-ac093c265026",
+              "z": 7,
+              "attrs": {}
             }
           ]
         },
