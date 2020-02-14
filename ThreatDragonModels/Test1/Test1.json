@@ -454,8 +454,8 @@
                 "y": 50
               },
               "angle": 0,
-              "id": "82453330-ad0b-4d45-bbc1-2f1eae3f9fde",
-              "z": 8,
+              "id": "dfd2c2c2-2170-414c-a816-c21f36e4d666",
+              "z": 9,
               "hasOpenThreats": false,
               "attrs": {
                 ".element-shape": {
@@ -466,7 +466,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "actor 0"
+                  "text": "actor 3"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
