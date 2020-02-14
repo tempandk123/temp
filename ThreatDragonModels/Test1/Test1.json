@@ -442,6 +442,36 @@
               "id": "2d712ef2-cf92-4266-9b78-ac093c265026",
               "z": 7,
               "attrs": {}
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "82453330-ad0b-4d45-bbc1-2f1eae3f9fde",
+              "z": 8,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "fill": "white",
+                  "follow-scale": true,
+                  "width": 160,
+                  "height": 80,
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "actor 0"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
