@@ -474,7 +474,13 @@
                 }
               ],
               "z": 10,
-              "attrs": {}
+              "outOfScope": true,
+              "reasonOutOfScope": "aaaa",
+              "attrs": {
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isOutOfScope"
+                }
+              }
             }
           ]
         },
