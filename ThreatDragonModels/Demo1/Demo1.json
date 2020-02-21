@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Demo1",
+    "owner": "Arnold",
+    "description": "Demo Present"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DIAG1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Arnold"
+  }
+}
