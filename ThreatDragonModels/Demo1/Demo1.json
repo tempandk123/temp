@@ -277,7 +277,7 @@
               "threats": [
                 {
                   "ruleId": "b2a6d40d-d3f8-4750-8e4d-c02cc84b13dc",
-                  "title": "Test123",
+                  "title": "Test1234",
                   "type": "Spoofing",
                   "status": "Open",
                   "severity": "Medium",
@@ -394,7 +394,7 @@
               "threats": [
                 {
                   "ruleId": "b2a6d40d-d3f8-4750-8e4d-c02cc84b13dc",
-                  "title": "Test123",
+                  "title": "Test1234",
                   "type": "Spoofing",
                   "status": "Open",
                   "severity": "Medium",
