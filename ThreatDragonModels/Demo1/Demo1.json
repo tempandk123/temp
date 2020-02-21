@@ -267,7 +267,7 @@
                 "height": 100
               },
               "position": {
-                "x": 50,
+                "x": 65,
                 "y": 50
               },
               "angle": 0,
@@ -277,7 +277,7 @@
               "threats": [
                 {
                   "ruleId": "b2a6d40d-d3f8-4750-8e4d-c02cc84b13dc",
-                  "title": "Test1234",
+                  "title": "Test12345",
                   "type": "Spoofing",
                   "status": "Open",
                   "severity": "Medium",
