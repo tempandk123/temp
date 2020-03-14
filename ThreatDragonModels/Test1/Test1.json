@@ -684,11 +684,48 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "d",
+                      "text": "das",
                       "font-weight": "400",
                       "font-size": "small"
                     }
                   }
+                }
+              ],
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 20
+              },
+              "target": {
+                "x": 324,
+                "y": 126
+              },
+              "id": "e83b8bf2-fc9e-46d5-b3e4-f491dbf5db04",
+              "z": 5,
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "Copy of das",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "vertices": [
+                {
+                  "x": 165,
+                  "y": 206
                 }
               ],
               "attrs": {}
