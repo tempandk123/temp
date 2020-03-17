@@ -814,7 +814,93 @@
       {
         "title": "Bounds",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 6
+        "id": 6,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 484,
+                "y": 44
+              },
+              "target": {
+                "x": 182,
+                "y": 132
+              },
+              "vertices": [],
+              "id": "c19dd382-4e5d-481c-9690-c287d119c809",
+              "z": 1,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 72,
+                "y": 229
+              },
+              "angle": 0,
+              "id": "0a2ecd39-3690-4f08-8808-14a082f87d64",
+              "z": 2,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "actor 1"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 18,
+                "y": 389
+              },
+              "target": {
+                "id": "0a2ecd39-3690-4f08-8808-14a082f87d64"
+              },
+              "vertices": [
+                {
+                  "x": 25,
+                  "y": 197
+                }
+              ],
+              "id": "24768acd-a2cd-4b01-b1fb-693215d804ec",
+              "z": 3,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 20
+              },
+              "target": {
+                "x": 110,
+                "y": 100
+              },
+              "vertices": [],
+              "id": "0e1d097f-c80a-4f95-a0fd-5dec8c16dd15",
+              "z": 4,
+              "attrs": {}
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ],
     "reviewer": "ArnoldReview"
