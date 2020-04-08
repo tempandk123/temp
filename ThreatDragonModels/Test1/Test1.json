@@ -905,7 +905,52 @@
       {
         "title": "NewDiagRiskMitig",
         "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 7
+        "id": 7,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 212,
+                "y": 97
+              },
+              "angle": 0,
+              "id": "c9c7cebe-af2f-41d8-9af4-1b25603bce40",
+              "z": 1,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "ruleId": "b2a6d40d-d3f8-4750-8e4d-c02cc84b13dc",
+                  "title": "Generic spoofing threat",
+                  "type": "Spoofing",
+                  "status": "Open",
+                  "risk": "1",
+                  "severity": "Medium",
+                  "description": "A generic spoofing threat"
+                }
+              ],
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "actor 0"
+                },
+                ".element-text": {
+                  "class": "element-text hasOpenThreats isInScope"
+                }
+              }
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ],
     "reviewer": "ArnoldReview"
