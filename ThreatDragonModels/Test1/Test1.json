@@ -52,38 +52,17 @@
               "angle": 0,
               "id": "1dfbefdd-0493-47f8-ac29-fabb473f771f",
               "z": 2,
-              "hasOpenThreats": true,
-              "threats": [
-                {
-                  "ruleId": "b2a6d40d-d3f8-4750-8e4d-c02cc84b13dc",
-                  "title": "Generic spoofing threat",
-                  "type": "Spoofing",
-                  "status": "Open",
-                  "impact": "4",
-                  "probability": "Negligible",
-                  "severity": "High",
-                  "description": "A generic spoofing threat"
-                },
-                {
-                  "ruleId": "4adaa48a-0345-4533-a189-64c98c4420dd",
-                  "title": "Generic tampering threat",
-                  "type": "Tampering",
-                  "status": "Open",
-                  "impact": "3",
-                  "probability": "Negligible",
-                  "severity": "Medium",
-                  "description": "A generic tampering threat"
-                }
-              ],
+              "hasOpenThreats": false,
+              "threats": [],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasOpenThreats isInScope"
+                  "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
                   "text": "process 1"
                 },
                 ".element-text": {
-                  "class": "element-text hasOpenThreats isInScope"
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             },
